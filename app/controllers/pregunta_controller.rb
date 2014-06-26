@@ -14,4 +14,5 @@ class PreguntaController < ApplicationController
 		else @tipo = "Comercial"
 		end
 	end
+
 end

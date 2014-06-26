@@ -1,15 +1,16 @@
 <div class="row">	
-	<h1>Inteligencia Artificial</h1>
+	<h1 class="medium-12" id="titulo">Inteligencia Artificial</h1>
 	<%= form_tag({:controller => "pregunta", :action => "envia"}, :method => "get") do %>
 		<%= label_tag "pregunta", "que sucede?" %>
 		<%= text_field_tag "q" %>
 		<%= submit_tag("Preguntar",id: "pregunta") %>
 	<% end %>
-
-	<div id="resultados">
-   		<% if @palabra %>
-      		<p> <%= @palabra %> </p>
-   		<% end %>
-	</div>
+	<br>
+	<%= form_tag({:controller => "productos", :action => "buscar"}, :method => "get") do %>
+		<select name="cosas">
+			<%= options_for_select([['refrigerador','refrigerador hogar cocina'],['televisor','televisor sala lcd']]) %>
+		</select>
+		<%= submit_tag("Buscar",id: "buscar") %>
+	<% end %>
 
 </div>

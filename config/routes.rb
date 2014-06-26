@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'productos/buscar'
+
   get 'pregunta/envia'
 
   get 'inicio/index'

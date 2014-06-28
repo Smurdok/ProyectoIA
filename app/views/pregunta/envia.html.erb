@@ -1,7 +1,11 @@
-	<div class="row">
-		<h1 class="medium-12" id="titulo">Resultado Soporte:</h1>
+	<div id="header">
+			<h1 class="medium-12" id="titulo">Resultado Soporte:</h1>
+	</div>
 
-		<div id="resultados" class="medium-6 columns">
+	<div class="row">
+
+
+		<div class="resultados" class="medium-6 columns">
 	   		<% if @pregunta %>
 	   			<div class="medium-6 colums">
 		   			<h3>Utilizando Classifier{palabras}</h3>
@@ -14,7 +18,7 @@
 	   		<% end %>
 		</div>
 
-		<div id="resultados" class="medium-6 columns">
+		<div class="resultados" class="medium-6 columns">
 	   		<% if @pregunta %>
 	   			<h3>Utilizando Jaccard</h3>
 	      		<p>Tu solicitud paso a Servicio <%= @tipo %> </p>

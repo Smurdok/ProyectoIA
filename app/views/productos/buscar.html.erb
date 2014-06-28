@@ -1,8 +1,12 @@
-	<div class="row">
+	<header id="header">
 		<div class="medium-12" id="header">
 			<h1 id="titulo">Resultados Productos<small>{Usando Jaccard}</small></h1>
+	</header>
+
+	<div class="row">
+		
 		</div>
-		<div id="resultados">
+		<div class="resultados">
 	   		<% if @producto %>
 	   			<!--<p> <%= @pregunta %> </p>
 	   			<br>-->
@@ -13,16 +17,16 @@
 	      			<%= @salida2 %> -->
 	      			<div class="medium-6 columns">
 	      			Productos con coeficiente:<br>
-	      			<%= @salida3 %>
+	      			<p><%= @salida3 %></p>
 	      			</div>
 	      			<div class="medium-6 columns">
 	      			Ordenados por relacion:<br>
-	      			<%= @salidaFinal %> 
+	      			<p><%= @salidaFinal %> </p>
 	      			</div>
-	      			<div class="medium-6 columns">
+	      			<!--<div class="medium-6 columns">
 	      			Ordenados por relacion:<br>
 	      			<%= @salida4 %> 
-	      			</div>
+	      			</div>-->
 				
 	   		<% end %>
 		</div>

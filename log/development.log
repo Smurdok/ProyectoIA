@@ -18315,3 +18315,1377 @@ Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-27 23:57:27
 
 
 Started GET "/assets/bg.jpg" for 127.0.0.1 at 2014-06-27 23:57:28 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-28 06:37:59 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by InicioController#index as HTML
+  Rendered inicio/index.html.erb within layouts/application (16.2ms)
+Completed 200 OK in 4215ms (Views: 4093.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 06:38:05 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 06:38:05 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 06:38:05 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 06:38:05 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 06:38:06 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 06:38:06 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 06:38:06 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 06:38:06 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 06:38:06 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 06:38:06 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 06:38:06 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 06:38:06 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-28 13:14:55 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (0.8ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by InicioController#index as HTML
+  Rendered inicio/index.html.erb within layouts/application (19.3ms)
+Completed 200 OK in 436ms (Views: 327.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:14:57 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:14:57 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:14:57 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:14:57 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:14:57 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:14:57 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:14:57 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:14:57 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:14:57 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:14:58 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:14:58 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:14:58 -0500
+
+
+Started GET "/assets/bg.jpg" for 127.0.0.1 at 2014-06-28 13:14:58 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-28 13:16:50 -0500
+Processing by InicioController#index as HTML
+  Rendered inicio/index.html.erb within layouts/application (9.5ms)
+Completed 200 OK in 224ms (Views: 221.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:16:50 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:16:50 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:16:50 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:16:50 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:16:50 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:16:51 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:16:51 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:16:51 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:16:51 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:16:51 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:16:51 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:16:51 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-28 13:17:21 -0500
+Processing by InicioController#index as HTML
+  Rendered inicio/index.html.erb within layouts/application (17.8ms)
+Completed 200 OK in 331ms (Views: 328.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:17:22 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:17:22 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:17:22 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:17:22 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:17:22 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:17:22 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:17:22 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:17:22 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:17:23 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:17:23 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:17:23 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:17:23 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-28 13:18:45 -0500
+Processing by InicioController#index as HTML
+  Rendered inicio/index.html.erb within layouts/application (20.6ms)
+Completed 200 OK in 471ms (Views: 468.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:18:47 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:18:47 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:18:47 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:18:47 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:18:47 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:18:47 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:18:47 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:18:47 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:18:47 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:18:47 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:18:47 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:18:47 -0500
+
+
+Started GET "/pregunta/envia?utf8=%E2%9C%93&q=licencias&commit=Preguntar" for 127.0.0.1 at 2014-06-28 13:19:05 -0500
+Processing by PreguntaController#envia as HTML
+  Parameters: {"utf8"=>"✓", "q"=>"licencias", "commit"=>"Preguntar"}
+  Rendered pregunta/envia.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 130ms (Views: 90.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:19:05 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:19:06 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:19:06 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:19:06 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:19:06 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:19:06 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:19:06 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:19:06 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:19:06 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:19:06 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:19:06 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:19:06 -0500
+
+
+Started GET "/pregunta/envia?utf8=%E2%9C%93&q=licencias&commit=Preguntar" for 127.0.0.1 at 2014-06-28 13:20:04 -0500
+Processing by PreguntaController#envia as HTML
+  Parameters: {"utf8"=>"✓", "q"=>"licencias", "commit"=>"Preguntar"}
+  Rendered pregunta/envia.html.erb within layouts/application (10.2ms)
+Completed 200 OK in 268ms (Views: 182.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:20:05 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:20:05 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:20:05 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:20:05 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:20:06 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:20:06 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:20:06 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:20:06 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:20:06 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:20:06 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:20:06 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:20:06 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-28 13:20:22 -0500
+Processing by InicioController#index as HTML
+  Rendered inicio/index.html.erb within layouts/application (8.9ms)
+Completed 200 OK in 108ms (Views: 105.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:20:23 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:20:23 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:20:23 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:20:23 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:20:23 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:20:23 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:20:23 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:20:23 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:20:23 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:20:23 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:20:23 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:20:23 -0500
+
+
+Started GET "/pregunta/envia?utf8=%E2%9C%93&q=licencias&commit=Preguntar" for 127.0.0.1 at 2014-06-28 13:21:53 -0500
+Processing by PreguntaController#envia as HTML
+  Parameters: {"utf8"=>"✓", "q"=>"licencias", "commit"=>"Preguntar"}
+  Rendered pregunta/envia.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 216ms (Views: 195.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:21:54 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:21:54 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:21:54 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:21:54 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:21:55 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:21:55 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:21:55 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:21:55 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:21:55 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:21:55 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:21:55 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:21:55 -0500
+
+
+Started GET "/pregunta/envia?utf8=%E2%9C%93&q=licencias&commit=Preguntar" for 127.0.0.1 at 2014-06-28 13:22:55 -0500
+Processing by PreguntaController#envia as HTML
+  Parameters: {"utf8"=>"✓", "q"=>"licencias", "commit"=>"Preguntar"}
+  Rendered pregunta/envia.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 785ms (Views: 717.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:22:56 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:22:56 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:22:57 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:22:57 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:22:57 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:22:57 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:22:57 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:22:57 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:22:57 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:22:57 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:22:57 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:22:57 -0500
+
+
+Started GET "/pregunta/envia?utf8=%E2%9C%93&q=licencias&commit=Preguntar" for 127.0.0.1 at 2014-06-28 13:23:34 -0500
+Processing by PreguntaController#envia as HTML
+  Parameters: {"utf8"=>"✓", "q"=>"licencias", "commit"=>"Preguntar"}
+  Rendered pregunta/envia.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 597ms (Views: 532.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:23:35 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:23:35 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:23:35 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:23:36 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:23:36 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:23:36 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:23:36 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:23:36 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:23:36 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:23:36 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:23:36 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:23:36 -0500
+
+
+Started GET "/pregunta/envia?utf8=%E2%9C%93&q=licencias&commit=Preguntar" for 127.0.0.1 at 2014-06-28 13:24:01 -0500
+Processing by PreguntaController#envia as HTML
+  Parameters: {"utf8"=>"✓", "q"=>"licencias", "commit"=>"Preguntar"}
+  Rendered pregunta/envia.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 364ms (Views: 316.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:24:01 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:24:02 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:24:02 -0500
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:24:02 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:24:02 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:24:02 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:24:02 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:24:02 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:24:02 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:24:02 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:24:02 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:24:02 -0500
+
+
+Started GET "/pregunta/envia?utf8=%E2%9C%93&q=licencias&commit=Preguntar" for 127.0.0.1 at 2014-06-28 13:24:37 -0500
+Processing by PreguntaController#envia as HTML
+  Parameters: {"utf8"=>"✓", "q"=>"licencias", "commit"=>"Preguntar"}
+  Rendered pregunta/envia.html.erb within layouts/application (10.1ms)
+Completed 200 OK in 190ms (Views: 164.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:24:37 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:24:38 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:24:38 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:24:38 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:24:38 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:24:38 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:24:38 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:24:38 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:24:38 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:24:38 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:24:38 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:24:38 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-28 13:24:44 -0500
+Processing by InicioController#index as HTML
+  Rendered inicio/index.html.erb within layouts/application (10.9ms)
+Completed 200 OK in 174ms (Views: 171.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:24:45 -0500
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:24:45 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:24:45 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:24:45 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:24:45 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:24:45 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:24:45 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:24:45 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:24:45 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:24:45 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:24:45 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:24:45 -0500
+
+
+Started GET "/pregunta/envia?utf8=%E2%9C%93&q=licencias&commit=Preguntar" for 127.0.0.1 at 2014-06-28 13:25:19 -0500
+Processing by PreguntaController#envia as HTML
+  Parameters: {"utf8"=>"✓", "q"=>"licencias", "commit"=>"Preguntar"}
+  Rendered pregunta/envia.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 359ms (Views: 305.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:25:20 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:25:20 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:25:20 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:25:20 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:25:20 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:25:20 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:25:20 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:25:21 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:25:21 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:25:21 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:25:21 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:25:21 -0500
+
+
+Started GET "/pregunta/envia?utf8=%E2%9C%93&q=licencias&commit=Preguntar" for 127.0.0.1 at 2014-06-28 13:25:59 -0500
+Processing by PreguntaController#envia as HTML
+  Parameters: {"utf8"=>"✓", "q"=>"licencias", "commit"=>"Preguntar"}
+  Rendered pregunta/envia.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 129ms (Views: 68.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:25:59 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:25:59 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:26:00 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:26:00 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:26:00 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:26:00 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:26:00 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:26:00 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:26:00 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:26:00 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:26:00 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:26:00 -0500
+
+
+Started GET "/pregunta/envia?utf8=%E2%9C%93&q=licencias&commit=Preguntar" for 127.0.0.1 at 2014-06-28 13:27:07 -0500
+Processing by PreguntaController#envia as HTML
+  Parameters: {"utf8"=>"✓", "q"=>"licencias", "commit"=>"Preguntar"}
+  Rendered pregunta/envia.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 328ms (Views: 276.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:27:07 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:27:08 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:27:08 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:27:08 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:27:08 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:27:08 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:27:08 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:27:08 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:27:08 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:27:08 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:27:08 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:27:08 -0500
+
+
+Started GET "/productos/buscar?utf8=%E2%9C%93&cosas=refrigerador+hogar+cocina&commit=Buscar" for 127.0.0.1 at 2014-06-28 13:27:33 -0500
+Processing by ProductosController#buscar as HTML
+  Parameters: {"utf8"=>"✓", "cosas"=>"refrigerador hogar cocina", "commit"=>"Buscar"}
+  Rendered productos/buscar.html.erb within layouts/application (10.4ms)
+Completed 200 OK in 134ms (Views: 129.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:27:34 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:27:34 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:27:34 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:27:34 -0500
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:27:34 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:27:34 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:27:34 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:27:34 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:27:34 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:27:34 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:27:35 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:27:35 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-28 13:27:42 -0500
+Processing by InicioController#index as HTML
+  Rendered inicio/index.html.erb within layouts/application (7.6ms)
+Completed 200 OK in 80ms (Views: 77.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:27:42 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:27:42 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:27:42 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:27:42 -0500
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:27:42 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:27:42 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:27:42 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:27:42 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:27:42 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:27:42 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:27:42 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:27:43 -0500
+
+
+Started GET "/productos/buscar?utf8=%E2%9C%93&cosas=refrigerador+hogar+cocina&commit=Buscar" for 127.0.0.1 at 2014-06-28 13:28:51 -0500
+Processing by ProductosController#buscar as HTML
+  Parameters: {"utf8"=>"✓", "cosas"=>"refrigerador hogar cocina", "commit"=>"Buscar"}
+  Rendered productos/buscar.html.erb within layouts/application (26.0ms)
+Completed 200 OK in 115ms (Views: 111.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:28:52 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:28:52 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:28:52 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:28:52 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:28:52 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:28:52 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:28:52 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:28:52 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:28:52 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:28:52 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:28:52 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:28:52 -0500
+
+
+Started GET "/productos/buscar?utf8=%E2%9C%93&cosas=refrigerador+hogar+cocina&commit=Buscar" for 127.0.0.1 at 2014-06-28 13:29:43 -0500
+Processing by ProductosController#buscar as HTML
+  Parameters: {"utf8"=>"✓", "cosas"=>"refrigerador hogar cocina", "commit"=>"Buscar"}
+  Rendered productos/buscar.html.erb within layouts/application (63.1ms)
+Completed 200 OK in 231ms (Views: 217.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:29:44 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:29:44 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:29:44 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:29:44 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:29:44 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:29:44 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:29:44 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:29:44 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:29:44 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:29:44 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:29:44 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:29:44 -0500
+
+
+Started GET "/productos/buscar?utf8=%E2%9C%93&cosas=refrigerador+hogar+cocina&commit=Buscar" for 127.0.0.1 at 2014-06-28 13:29:52 -0500
+Processing by ProductosController#buscar as HTML
+  Parameters: {"utf8"=>"✓", "cosas"=>"refrigerador hogar cocina", "commit"=>"Buscar"}
+  Rendered productos/buscar.html.erb within layouts/application (46.3ms)
+Completed 200 OK in 181ms (Views: 158.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:29:53 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:29:53 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:29:53 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:29:53 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:29:53 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:29:53 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:29:53 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:29:53 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:29:53 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:29:53 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:29:53 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:29:53 -0500
+
+
+Started GET "/productos/buscar?utf8=%E2%9C%93&cosas=refrigerador+hogar+cocina&commit=Buscar" for 127.0.0.1 at 2014-06-28 13:30:16 -0500
+Processing by ProductosController#buscar as HTML
+  Parameters: {"utf8"=>"✓", "cosas"=>"refrigerador hogar cocina", "commit"=>"Buscar"}
+  Rendered productos/buscar.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 125ms (Views: 109.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:30:17 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:30:17 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:30:17 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:30:17 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:30:17 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:30:17 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:30:17 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:30:17 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:30:17 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:30:17 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:30:17 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:30:18 -0500
+
+
+Started GET "/productos/buscar?utf8=%E2%9C%93&cosas=refrigerador+hogar+cocina&commit=Buscar" for 127.0.0.1 at 2014-06-28 13:31:25 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by ProductosController#buscar as HTML
+  Parameters: {"utf8"=>"✓", "cosas"=>"refrigerador hogar cocina", "commit"=>"Buscar"}
+  Rendered productos/buscar.html.erb within layouts/application (18.1ms)
+Completed 200 OK in 395ms (Views: 289.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:31:27 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:31:27 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:31:27 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:31:27 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:31:27 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:31:27 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:31:27 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:31:27 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:31:28 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:31:28 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:31:28 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:31:28 -0500
+
+
+Started GET "/productos/buscar?utf8=%E2%9C%93&cosas=refrigerador+hogar+cocina&commit=Buscar" for 127.0.0.1 at 2014-06-28 13:32:27 -0500
+Processing by ProductosController#buscar as HTML
+  Parameters: {"utf8"=>"✓", "cosas"=>"refrigerador hogar cocina", "commit"=>"Buscar"}
+  Rendered productos/buscar.html.erb within layouts/application (9.5ms)
+Completed 200 OK in 120ms (Views: 115.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:32:27 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:32:28 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:32:28 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:32:28 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:32:28 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:32:28 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:32:28 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:32:28 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:32:28 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:32:28 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:32:28 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:32:28 -0500
+
+
+Started GET "/productos/buscar?utf8=%E2%9C%93&cosas=refrigerador+hogar+cocina&commit=Buscar" for 127.0.0.1 at 2014-06-28 13:33:27 -0500
+Processing by ProductosController#buscar as HTML
+  Parameters: {"utf8"=>"✓", "cosas"=>"refrigerador hogar cocina", "commit"=>"Buscar"}
+  Rendered productos/buscar.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 132ms (Views: 126.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:33:27 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:33:27 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:33:27 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:33:27 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:33:27 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:33:27 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:33:27 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:33:28 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:33:28 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:33:28 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:33:28 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:33:28 -0500
+
+
+Started GET "/productos/buscar?utf8=%E2%9C%93&cosas=refrigerador+hogar+cocina&commit=Buscar" for 127.0.0.1 at 2014-06-28 13:33:45 -0500
+Processing by ProductosController#buscar as HTML
+  Parameters: {"utf8"=>"✓", "cosas"=>"refrigerador hogar cocina", "commit"=>"Buscar"}
+  Rendered productos/buscar.html.erb within layouts/application (19.1ms)
+Completed 200 OK in 224ms (Views: 217.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:33:46 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:33:46 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:33:46 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:33:46 -0500
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:33:46 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:33:46 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:33:46 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:33:46 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:33:46 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:33:47 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:33:47 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:33:47 -0500
+
+
+Started GET "/productos/buscar?utf8=%E2%9C%93&cosas=refrigerador+hogar+cocina&commit=Buscar" for 127.0.0.1 at 2014-06-28 13:34:33 -0500
+Processing by ProductosController#buscar as HTML
+  Parameters: {"utf8"=>"✓", "cosas"=>"refrigerador hogar cocina", "commit"=>"Buscar"}
+  Rendered productos/buscar.html.erb within layouts/application (24.3ms)
+Completed 200 OK in 257ms (Views: 241.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:34:33 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:34:33 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:34:33 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:34:34 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:34:34 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:34:34 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:34:34 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:34:34 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:34:34 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:34:34 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:34:34 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:34:34 -0500
+
+
+Started GET "/productos/buscar?utf8=%E2%9C%93&cosas=refrigerador+hogar+cocina&commit=Buscar" for 127.0.0.1 at 2014-06-28 13:36:01 -0500
+Processing by ProductosController#buscar as HTML
+  Parameters: {"utf8"=>"✓", "cosas"=>"refrigerador hogar cocina", "commit"=>"Buscar"}
+  Rendered productos/buscar.html.erb within layouts/application (6.6ms)
+Completed 200 OK in 213ms (Views: 198.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:36:02 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:36:02 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:36:02 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:36:02 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:36:02 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:36:02 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:36:02 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:36:03 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:36:03 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:36:03 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:36:03 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:36:03 -0500
+
+
+Started GET "/productos/buscar?utf8=%E2%9C%93&cosas=refrigerador+hogar+cocina&commit=Buscar" for 127.0.0.1 at 2014-06-28 13:40:03 -0500
+Processing by ProductosController#buscar as HTML
+  Parameters: {"utf8"=>"✓", "cosas"=>"refrigerador hogar cocina", "commit"=>"Buscar"}
+  Rendered productos/buscar.html.erb within layouts/application (14.3ms)
+Completed 200 OK in 188ms (Views: 182.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:40:03 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:40:03 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:40:03 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:40:03 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:40:03 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:40:03 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:40:03 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:40:03 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:40:04 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:40:04 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:40:04 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:40:04 -0500
+
+
+Started GET "/productos/buscar?utf8=%E2%9C%93&cosas=refrigerador+hogar+cocina&commit=Buscar" for 127.0.0.1 at 2014-06-28 13:40:31 -0500
+Processing by ProductosController#buscar as HTML
+  Parameters: {"utf8"=>"✓", "cosas"=>"refrigerador hogar cocina", "commit"=>"Buscar"}
+  Rendered productos/buscar.html.erb within layouts/application (16.2ms)
+Completed 200 OK in 261ms (Views: 250.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:40:32 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:40:32 -0500
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:40:32 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:40:32 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:40:32 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:40:32 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:40:32 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:40:33 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:40:33 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:40:33 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:40:33 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:40:33 -0500
+
+
+Started GET "/productos/buscar?utf8=%E2%9C%93&cosas=refrigerador+hogar+cocina&commit=Buscar" for 127.0.0.1 at 2014-06-28 13:40:46 -0500
+Processing by ProductosController#buscar as HTML
+  Parameters: {"utf8"=>"✓", "cosas"=>"refrigerador hogar cocina", "commit"=>"Buscar"}
+  Rendered productos/buscar.html.erb within layouts/application (24.8ms)
+Completed 200 OK in 276ms (Views: 252.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/inicio.css?body=1" for 127.0.0.1 at 2014-06-28 13:40:46 -0500
+
+
+Started GET "/assets/pregunta.css?body=1" for 127.0.0.1 at 2014-06-28 13:40:46 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-28 13:40:46 -0500
+
+
+Started GET "/assets/productos.css?body=1" for 127.0.0.1 at 2014-06-28 13:40:47 -0500
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-06-28 13:40:47 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-28 13:40:47 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-28 13:40:47 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-28 13:40:47 -0500
+
+
+Started GET "/assets/inicio.js?body=1" for 127.0.0.1 at 2014-06-28 13:40:47 -0500
+
+
+Started GET "/assets/pregunta.js?body=1" for 127.0.0.1 at 2014-06-28 13:40:47 -0500
+
+
+Started GET "/assets/productos.js?body=1" for 127.0.0.1 at 2014-06-28 13:40:47 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-28 13:40:47 -0500

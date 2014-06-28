@@ -15,16 +15,36 @@
  */
 
 body {
-	background-color: #222;
+	background: url(bg.jpg) no-repeat center center fixed;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+	max-height: 90%;
 }
 
 div.row{ 
 	text-transform: uppercase;
+	margin-top: 50px;
 }
 
-div.row h1#titulo {
-	color: white;
+div#header {
+	background-color: #1abc9c;
+	margin-top: -3px;
 }
+
+div#header h1#titulo {
+	color: white;
+	padding: 15px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+div#header small {
+	/*color: #2E4856;*/
+	color: #2E4856;
+}
+
 div.row form{
 	color: white;
 }
@@ -38,3 +58,31 @@ div#resultados {
 	padding: 10px;
 }
 
+div.row div blockquote {
+	background-color: rgba(44, 62, 80,0.5);
+	color: white;
+}
+
+input[type="submit"] {
+	color: white;
+	background-color: #1abc9c;
+	padding: 20px;
+	box-shadow: 1px 1px #2c3e50,
+				2px 2px #2c3e50,
+				3px 3px #2c3e50,
+				4px 4px #2c3e50,
+				5px 5px #2c3e50,
+				6px 6px #2c3e50;
+	border: none;
+	text-transform: uppercase;
+}
+
+input[type="submit"]:hover {
+		box-shadow: 
+				7px 7px #2c3e50,
+				8px 8px #2c3e50,
+				9px 9px #2c3e50,
+				10px 10px #2c3e50,
+				11px 11px #2c3e50,
+				12px 12px #2c3e50;
+	;

@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+source 'http://gems.github.com'
 source 'https://rb-gsl.rubyforce.org'
 
 

@@ -19,21 +19,25 @@ class PreguntaController < ApplicationController
 		@tecnico.each {|y| b.train_tecnico y}
 		@respuesta = b.classify @pregunta
 
-		lsi = Classifier::LSI.new
-		posibles =[
-				["Comprar el nuevo","Renovar Licencia", :comercial],
-				["Cuanto cuesta, precio", :comercial],
-				["Donde venden", :comercial],
-				["Donde adquiero", :comercial],
-				["Cual es el costo total de, o a meses", :comercial],
-				["El importe o monto", :comercial],
-				["Se cayo, mojo, estrello mi", :tecnico],
-				["Se rompio", :tecnico],
-				["No prende, enciende mi", :tecnico],
-				["Pueden reparar, arreglar, checar mi", :tecnico]
+		a = Classifier::Bayes.new 'comercial','tecnico'
+		comercial =[
+				"Comprar el nuevo","Renovar Licencia",
+				"Cuanto cuesta, precio",
+				"Donde venden",
+				"Donde adquiero",
+				"Cual es el costo total de, o a meses",
+				"El importe o monto"
 			]
-		posibles.each {|x,y| lsi.add_item x, y}
-		@respuesta2 = lsi.classify @pregunta
+			
+		tecnico = [
+				"Se cayo, mojo, estrello mi",
+				"Se rompio",
+				"No prende, enciende mi",
+				"Pueden reparar, arreglar, checar mi"
+			]
+		comercial.each {|x| a.train_comercial x}
+		tecnico.each {|y| a.train_tecnico y}
+		@respuesta2 = a.classify @pregunta
 
 	end
 

@@ -1,16 +1,18 @@
 <div class="row">	
-	<h1 class="medium-12" id="titulo">Inteligencia Artificial</h1>
-	<%= form_tag({:controller => "pregunta", :action => "envia"}, :method => "get") do %>
-		<%= label_tag "pregunta", "que sucede?" %>
-		<%= text_field_tag "q" %>
-		<%= submit_tag("Preguntar",id: "pregunta") %>
-	<% end %>
-	<br>
+	<h1 class="medium-12" id="titulo">Inteligencia Artificial<small>{Usando Jaccard y Classifier}</small></h1>
+	<div class="medium-6 columns">
+		<%= form_tag({:controller => "pregunta", :action => "envia"}, :method => "get") do %>
+			<%= label_tag "pregunta", "Cual es su pregunta?" %>
+			<%= text_field_tag "q" %>
+			<%= submit_tag("Preguntar",id: "pregunta") %>
+		<% end %>
+	</div>
+	<div class="medium-6 columns">
 	<%= form_tag({:controller => "productos", :action => "buscar"}, :method => "get") do %>
 		<select name="cosas">
-			<%= options_for_select([['refrigerador','refrigerador hogar cocina'],['televisor','televisor sala lcd']]) %>
+			<%= options_for_select([['refrigerador','refrigerador hogar cocina'],['televisor','televisor sala lcd'],['telefono','hogar telefono oficina'],['zapatos','zapatos moda casual'],['tenis','tenis deportivos moda'],['camisa','camisa vestir'],['zapatillas','zapatillas moda formal'],['computadora','computadora tecnologia oficina']]) %>
 		</select>
 		<%= submit_tag("Buscar",id: "buscar") %>
 	<% end %>
-
+	</div>
 </div>

@@ -35,5 +35,6 @@ div#resultados {
 	background-color: black;
 	color: white;
 	display: inline-block;
+	padding: 10px;
 }
 

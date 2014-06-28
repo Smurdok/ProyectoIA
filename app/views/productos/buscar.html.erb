@@ -1,16 +1,28 @@
 	<div class="row">
+		<h1 class="medium-12" id="titulo">Resultados Busqueda:</h1>
+		<h1 class="subheader medium-12">Trabajo usando Jaccard y Classifier</h1>
 		<div id="resultados">
 	   		<% if @producto %>
 	   			<!--<p> <%= @pregunta %> </p>
 	   			<br>-->
 	   			<h2> <%= @cosa1 %></h2>
-	      		<p> 
-	      			<%= @salida %><br> 
+	      		
+	      			<!--<%= @salida %><br> -->
 	      			<!--<%= @salida1 %> 
 	      			<%= @salida2 %> -->
-	      			<%= @salida3 %><br> 
+	      			<div class="medium-6 columns">
+	      			Productos con coeficiente:<br>
+	      			<%= @salida3 %>
+	      			</div>
+	      			<div class="medium-6 columns">
+	      			Ordenados por relacion:<br>
 	      			<%= @salidaFinal %> 
-				</p>
+	      			</div>
+	      			<div class="medium-6 columns">
+	      			Ordenados por relacion:<br>
+	      			<%= @salida4 %> 
+	      			</div>
+				
 	   		<% end %>
 		</div>
 	</div>
